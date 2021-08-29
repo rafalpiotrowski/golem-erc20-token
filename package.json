@@ -1,0 +1,33 @@
+{
+  "name": "golem-erc20-token",
+  "description": "sample ERC20 token",
+  "version": "0.0.1",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafalpiotrowski/golem-erc20-token.git"
+  },
+  "keywords": [
+    "ERC20",
+    "Golem",
+    "token",
+    "Ethereum",
+    "Solidity"
+  ],
+  "author": "Rafal Piotrowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafalpiotrowski/golem-erc20-token/issues"
+  },
+  "homepage": "https://github.com/rafalpiotrowski/golem-erc20-token#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "web3": "^1.5.2"
+  }
+}
